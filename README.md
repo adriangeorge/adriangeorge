@@ -1,4 +1,4 @@
-### Henlo 👋
+### Hello 👋 Computer Engineering student developing in C/C++ / Java / Python
 
 <!--
 **adriangeorge/adriangeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
